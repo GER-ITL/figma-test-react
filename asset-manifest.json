@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/figma-test-react/static/css/main.b6902c08.css",
+    "main.js": "/figma-test-react/static/js/main.88792a75.js",
+    "static/media/back.jpg": "/figma-test-react/static/media/back.d70bdcbd490dc815c102.jpg",
+    "static/media/lupaIcon.png": "/figma-test-react/static/media/lupaIcon.f79269a5930a4a68c313.png",
+    "static/media/addIcon.png": "/figma-test-react/static/media/addIcon.ceea05f1e671bca20d59.png",
+    "static/media/webIcon.png": "/figma-test-react/static/media/webIcon.6c7c6e47e6bff281539a.png",
+    "static/media/emailIcon.png": "/figma-test-react/static/media/emailIcon.038b9b265e899b15dab5.png",
+    "static/media/procIcon.png": "/figma-test-react/static/media/procIcon.11e75fe643a7b8a68004.png",
+    "index.html": "/figma-test-react/index.html",
+    "main.b6902c08.css.map": "/figma-test-react/static/css/main.b6902c08.css.map",
+    "main.88792a75.js.map": "/figma-test-react/static/js/main.88792a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6902c08.css",
+    "static/js/main.88792a75.js"
+  ]
+}
