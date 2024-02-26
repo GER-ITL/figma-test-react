@@ -22,12 +22,12 @@ const Footer = () => {
 					│
 					<div>
 						<img src={webIcon} alt='' />
-						<a href='#'>info@inpsum228.com</a>
+						<a href="#top">info@inpsum228.com</a>
+
 					</div>
 					<div>
 						<img src={webIcon} alt='' />
-
-						<a href='#'>Мы вконтакте</a>
+						<a href="#top">Мы вконтакте</a>
 					</div>
 				</div>
 			</div>

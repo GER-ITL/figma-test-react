@@ -7,10 +7,10 @@ const Header = () => {
 				LOREMIPSUM.<span>NET</span>
 			</h1>
 			<nav className={classes.header__nav}>
-				<a href='/'>БИЗНЕС</a>
-				<a href='/'>О НАС</a>
-				<a href='/'>ЦЕНЫ</a>
-				<a href='/'>ОФОРМИТЬ ЗАКАЗ</a>
+			<a href="/some/valid/uri">БИЗНЕС</a>
+			<a href="/some/valid/uri#top">О НАС</a>
+			<a href="#top">ЦЕНЫ</a>
+			<a href="#top">ОФОРМИТЬ ЗАКАЗ</a>
 			</nav>
 		</div>
 	)
